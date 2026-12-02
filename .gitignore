@@ -1,0 +1,17 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+Module.symvers
+modules.order
+.tmp_versions/
+__pycache__/
+*.py[cod]
+
+# Local agent planning files
+.planning/
+.plan-attestation
+task_plan.md
+findings.md
+progress.md
